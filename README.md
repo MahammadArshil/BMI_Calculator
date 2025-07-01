@@ -49,7 +49,7 @@ npm run dev
 
 ## 📬 Contact
 
-📧 Email: \[[mahammadarshil007@gmail.com](mailto:your-email@gmail.com)] \
+📧 Email: \[[mahammadarshil007@gmail.com](mailto:mahammadarshil007@gmail.com)] \
 🔗 LinkedIn: [MahammadArshil](https://www.linkedin.com/in/mahammadarshil-vahora/)
 ---
 
