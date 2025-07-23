@@ -6,11 +6,11 @@ A simple, intuitive, and responsive **BMI Calculator** built with **React.js** a
 
 ## 📌 Features
 
-✅ **Calculate BMI (Body Mass Index)**\
-✅ **Health Category Output (Underweight, Normal, Overweight, Obese)**\
-✅ **Responsive UI (TailwindCSS)**\
-✅ **BMI Suggestions (Ideal Range & Health Tips)**\
-✅ **Real-Time Input Handling & Clear UX**\
+✅ **Calculate BMI (Body Mass Index)**
+✅ **Health Category Output (Underweight, Normal, Overweight, Obese)**
+✅ **Responsive UI (TailwindCSS)**
+✅ **BMI Suggestions (Ideal Range & Health Tips)**
+✅ **Real-Time Input Handling & Clear UX**
 
 ---
 
@@ -49,7 +49,7 @@ npm run dev
 
 ## 📬 Contact
 
-📧 Email: \[[mahammadarshil007@gmail.com](mailto:mahammadarshil007@gmail.com)] \
+📧 Email: \[[mahammadarshil007@gmail.com](mailto:your-email@gmail.com)]
 🔗 LinkedIn: [MahammadArshil](https://www.linkedin.com/in/mahammadarshil-vahora/)
 ---
 
